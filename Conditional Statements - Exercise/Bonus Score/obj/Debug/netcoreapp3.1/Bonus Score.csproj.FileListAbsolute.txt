@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.exe
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.deps.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.dll
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.pdb
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.dll
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.pdb
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.exe
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.deps.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.dll
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.pdb
+C:\Users\IVO\source\repos\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\netcoreapp3.1\03. Time + 15 Minutes.genruntimeconfig.cache
