@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.exe
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.deps.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.dll
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.pdb
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.genruntimeconfig.cache

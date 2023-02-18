@@ -1,0 +1,13 @@
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.exe
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.deps.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\bin\Debug\netcoreapp3.1\Cinema Tickets.pdb
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.dll
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.pdb
+C:\Users\IVO\source\repos\Nested Loops - Exercise\Cinema Tickets\obj\Debug\netcoreapp3.1\Cinema Tickets.genruntimeconfig.cache
