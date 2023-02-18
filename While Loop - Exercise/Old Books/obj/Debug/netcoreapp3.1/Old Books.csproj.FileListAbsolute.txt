@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.exe
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.deps.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfo.cs
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\IVO\source\repos\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.genruntimeconfig.cache

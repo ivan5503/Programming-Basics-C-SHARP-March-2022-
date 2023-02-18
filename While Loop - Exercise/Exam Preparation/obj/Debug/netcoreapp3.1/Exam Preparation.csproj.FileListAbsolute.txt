@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\IVO\source\repos\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.genruntimeconfig.cache
