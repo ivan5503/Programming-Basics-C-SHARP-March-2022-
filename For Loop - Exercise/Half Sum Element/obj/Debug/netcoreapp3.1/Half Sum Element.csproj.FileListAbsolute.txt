@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.exe
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.deps.json
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.json
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfo.cs
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\IVO\source\repos\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.genruntimeconfig.cache
