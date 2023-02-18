@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.exe
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.deps.json
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.json
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.dll
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\bin\Debug\netcoreapp3.1\Small Shop.pdb
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.AssemblyInfo.cs
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.dll
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.pdb
+C:\Users\IVO\source\repos\Conditional Statements Advanced - Lab\Small Shop\obj\Debug\netcoreapp3.1\Small Shop.genruntimeconfig.cache
