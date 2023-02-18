@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.exe
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.deps.json
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.json
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfo.cs
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.genruntimeconfig.cache

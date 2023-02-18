@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.exe
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.deps.json
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.exe
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.deps.json
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.json
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\bin\Debug\netcoreapp3.1\Max Number.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfo.cs
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.dll
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.pdb
+C:\Users\IVO\source\repos\While Loop - Lab\Max Number\obj\Debug\netcoreapp3.1\Max Number.genruntimeconfig.cache
