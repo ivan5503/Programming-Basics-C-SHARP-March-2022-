@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.exe
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.deps.json
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.json
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfo.cs
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\IVO\source\repos\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.genruntimeconfig.cache

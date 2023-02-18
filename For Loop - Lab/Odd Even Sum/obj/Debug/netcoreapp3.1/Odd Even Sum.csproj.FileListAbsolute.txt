@@ -1,0 +1,14 @@
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.exe
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.deps.json
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.json
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.dev.json
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.AssemblyReference.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfo.cs
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\IVO\source\repos\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.genruntimeconfig.cache
