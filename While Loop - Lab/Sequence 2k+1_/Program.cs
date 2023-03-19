@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace Sequence_2k_1_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+
+            for (int k = 1; k <= number; k = k * 2 + 1)
+            {
+                Console.WriteLine(k);
+            }
+        }
+    }
+}
